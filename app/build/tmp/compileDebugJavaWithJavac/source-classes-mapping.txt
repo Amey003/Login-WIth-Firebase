@@ -1,0 +1,14 @@
+com/example/loginwithfirebase/SignupActivity.java
+ com.example.loginwithfirebase.SignupActivity
+ com.example.loginwithfirebase.SignupActivity$1
+ com.example.loginwithfirebase.SignupActivity$1$1
+com/example/loginwithfirebase/Homepage.java
+ com.example.loginwithfirebase.Homepage
+ com.example.loginwithfirebase.Homepage$1
+com/example/loginwithfirebase/MainActivity.java
+ com.example.loginwithfirebase.MainActivity
+ com.example.loginwithfirebase.MainActivity$1
+ com.example.loginwithfirebase.MainActivity$1$1
+ com.example.loginwithfirebase.MainActivity$2
+com/example/loginwithfirebase/BuildConfig.java
+ com.example.loginwithfirebase.BuildConfig

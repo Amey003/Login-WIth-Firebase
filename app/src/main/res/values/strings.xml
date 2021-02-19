@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Login With Firebase</string>
+    <string name="hint_login">Username</string>
+    <string name="hint_pass">Password</string>
+    <string name="btn">Submit</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:text="Quick Login"
+        android:textSize="44dp"
+        android:layout_gravity="center"
+
+        />
+
+    <EditText
+        android:layout_marginTop="20dp"
+        android:id="@+id/user"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:hint="@string/hint_login"
+        android:textColorHint="@color/black"
+        android:layout_gravity="center"/>
+
+    <EditText
+        android:textColorHint="@color/black"
+        android:id="@+id/pass"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:hint="@string/hint_pass"/>
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/btn"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:layout_marginTop="20dp"
+        android:textAlignment="center"
+        android:textSize="15dp"
+        android:textColor="@color/black"
+        android:id="@+id/newuser"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:text="New User"/>
+    <Button
+        android:id="@+id/signup"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        />
+
+</LinearLayout>
